@@ -38,3 +38,6 @@ while True:
     if hoi == 'n':
         break
 print ("Cảm ơn bạn đã chơi game !")
+
+
+# fgffff
